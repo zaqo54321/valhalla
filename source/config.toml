@@ -1,0 +1,6 @@
+[query]
+_query = 'http.title:"Index of /" http.html:".sql" http.status:200'
+
+[key]
+_key = 'SHODAN-API-KEY-HERE'
+
